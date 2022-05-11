@@ -17,5 +17,15 @@
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
     </item>
     
+    <item>
+      <title>Title</title>
+      <link>http://example.org/posts/second/second/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/second/second/</guid>
+      <description>Peoples Joshua Joshua is cool
+Susie Susie likes sushi</description>
+    </item>
+    
   </channel>
 </rss>
